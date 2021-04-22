@@ -17,10 +17,6 @@ Meu nome é Guilherme Trindade, sou programador Fullstack e apaixonado por desen
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=guigagb&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/guigagb/guigagb)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guigagb)]
-
-###
-
 ## Algumas Tecnologias
 
   ![Vue](https://img.shields.io/badge/-VueJS-00b47d?style=flat-square&logo=vue.js&logoColor=white)
