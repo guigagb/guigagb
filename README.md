@@ -10,7 +10,7 @@
 
 Meu nome é Guilherme Trindade, sou programador Fullstack e apaixonado por desenvolvimento e desafios.
 
-- :office_worker: Atualmente Programador Frontend Sênior na **Contabilizei**
+- :office_worker: Atualmente CTO na **Real Acessórios**
 - :heart: Techs: Vue, Javascript, Node.js, entre outras.
 
 ## Algumas Tecnologias
